@@ -1,0 +1,15 @@
+.btn-roxo {
+    background-color: #6d5dfc;
+    border: none;
+    color: white;
+}
+
+.btn-roxo:hover {
+    background-color: #5746f5;
+    color: white;
+}
+
+.card-tarefa {
+    background-color: #3a4152;
+    border: 1px solid rgba(109, 93, 252, 0.25) !important;
+}
